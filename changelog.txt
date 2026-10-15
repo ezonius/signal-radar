@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-10-11
+  Features:
+    - Added the Signal Radar: a compact 1x1 radar that cannot chart or reveal the map, only participates in the circuit network.
+    - Added recipes to convert between the signal radar and the vanilla radar (both directions).
+---------------------------------------------------------------------------------------------------

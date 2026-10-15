@@ -1,0 +1,9 @@
+{
+  "name": "signal-radar",
+  "version": "0.1.0",
+  "factorio_version": "2.1",
+  "title": "Signal Radar",
+  "author": "ezonius",
+  "description": "A compact 1x1 radar stripped of map charting that only serves as a circuit-network readout point, with recipes to convert between the signal radar and the vanilla radar.",
+  "dependencies": ["base >= 2.0.0"]
+}
